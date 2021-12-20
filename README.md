@@ -1,5 +1,5 @@
 # deep_learning_mnist
-Classifying MNIST digits using Convolutional Neural Networks
+Classifying MNIST digits using ANN deep learning
 In this project, I show how TensorFlow can be used to implement ANN. Also, I briefly introduce basic concepts of ANN. The mathematical notations and its mapping TensowFlow graphs can be seen at below. The accuracy of this model for Kaggle competition: 0.99
 
 MNIST dataset
